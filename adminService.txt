@@ -1,5 +1,6 @@
 add and remove users
 change the roles
+<<<<<<< HEAD
 manage the database
 closing the connection
 
@@ -9,3 +10,5 @@ change 2 in my database
 =======
 change 2 in harsh's database
 >>>>>>> feature3
+=======
+>>>>>>> feature1
